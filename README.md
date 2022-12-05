@@ -1,4 +1,4 @@
-# Control_laboratory
+# Control laboratory
 Control laboratories by using DC servomotor with inertial load, DC servomotor with resonant load, balancing robot.
 For each one of the following activity, the performance of the different control methods are validated before in the Simulink platform and later on the real system in the laboratory.
 ## Lab 0: Position PID–control of a DC servomotor
