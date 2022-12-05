@@ -11,9 +11,10 @@ A digital position controller for the DC servomotor available in the laboratory 
 [CLAB_ASSIGNMENT_2.pdf](https://github.com/Gioo96/Control_laboratory/files/10153105/CLAB_ASSIGNMENT_2.pdf)
 ## Lab 3: Position control of a DC servomotor with resonant load
 The Simulink model of the DC gearmotor with resonant load is designed. Both the PID and state–space control techniques are taken into account for the design. The state–space design is performed with either conventional eigenvalues placement methods, or by using optimal techniques based on the Linear Quadratic Regulator (LQR).\
+[CLAB_ASSIGNMENT_3.pdf](https://github.com/Gioo96/Control_laboratory/files/10153147/CLAB_ASSIGNMENT_3.pdf)
 ## Lab 4: Longitudinal state–space control of the balancing robot
 A mathematical model for the longitudinal dynamics of the balancing robot is derived, under the simplifying assumption that the robot moves along a  straight line, namely no lateral motion occurs. The balance and position control of the balancing robot was performed by resorting to conventional state-space methods. In particular: 
 1. Both the balance and position controllers were designed in the discrete–time domain, after discretizing the plant dynamics with the exact discretization    method (direct digital design). 
 2. The nominal or robust tracking of constant longitudinal position set–points were achieved with the state–space control schemes.
-3. The state feedback matrix (state feedback controller gain) of the balance/position state–space controller were designed with the Linear Quadratic (LQ)      optimal design techniques.
+3. The state feedback matrix (state feedback controller gain) of the balance/position state–space controller were designed with the Linear Quadratic (LQ)      optimal design techniques.\
 [CLAB_ASSIGNMENT_4.pdf](https://github.com/Gioo96/Control_laboratory/files/10153131/CLAB_ASSIGNMENT_4.pdf)
